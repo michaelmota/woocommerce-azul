@@ -1,6 +1,6 @@
 <?php
 
-/* Template Name: Azul - WooCommerce Process*/
+/* Template Name: Azul - Order Process*/
 
 if( isset($_GET['AzulUrl']) ){
 	$AzulUrl = $_GET['AzulUrl'];
